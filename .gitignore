@@ -1,0 +1,25 @@
+
+# Ignore temp files
+*.tmp
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE folders
+.vscode/
+.idea/
+
+# Ignore Python virtual environments (if any)
+venv/
+env/
+
+# Ignore node_modules (in case)
+node_modules/
+
+# Ignore compiled python files
+__pycache__/
+
+# Ignore MySQL dump auto files (optional)
+*.sql~
